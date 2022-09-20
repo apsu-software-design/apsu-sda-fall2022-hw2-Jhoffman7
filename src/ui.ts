@@ -5,6 +5,8 @@
 import readlineSync = require('readline-sync'); //for easier repeated prompts
 import {GatheringManager} from './manager';
 
+
+
 /**
  * Function to run the UI
  */
